@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angqd
-- 👀 I’m interested in data science/sports data analysis , machine learning , app development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science/sports analysis,machine learning, quantum computing algorithms and software development
+- student @ Bits Hyd 
 - 📫 How to reach me angadbawa02@gmail.com
 
 <!---
